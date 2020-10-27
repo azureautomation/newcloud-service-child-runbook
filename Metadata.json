@@ -1,0 +1,20 @@
+{
+    "Author": "Rob Sewell",
+    "ContentSize": 2932,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/newcloud-service-child-runbook/master/workflow%20New-CloudService.ps1",
+    "DownloadCount": 718,
+    "Id": "New-Cloud-Service-Child-75911f57",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 575,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-1-5T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook creates a new cloud service. Used just to clean up new environment runbook and standardise cloud service creation.Not much benefit over New-AzureServiceCan be used with New-StorageAccount and New-AvailabilityGroupVM to automate and standardise azure environment creat",
+    "Title": "New-Cloud Service Child Runbook",
+    "UpdatedDate": "2015-1-5T00:00:00",
+    "Url": "https://github.com/azureautomation/newcloud-service-child-runbook",
+    "UserTags": "Utility, Cloud Services, Azure Automation"
+}
